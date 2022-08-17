@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/marvel-web-service/static/css/main.e4e6ec41.chunk.css",
-    "main.js": "/marvel-web-service/static/js/main.4ecb6dc4.chunk.js",
-    "main.js.map": "/marvel-web-service/static/js/main.4ecb6dc4.chunk.js.map",
+    "main.css": "/marvel-web-service/static/css/main.336f1033.chunk.css",
+    "main.js": "/marvel-web-service/static/js/main.899baea0.chunk.js",
+    "main.js.map": "/marvel-web-service/static/js/main.899baea0.chunk.js.map",
     "runtime-main.js": "/marvel-web-service/static/js/runtime-main.95311f0b.js",
     "runtime-main.js.map": "/marvel-web-service/static/js/runtime-main.95311f0b.js.map",
-    "static/js/2.67f8e475.chunk.js": "/marvel-web-service/static/js/2.67f8e475.chunk.js",
-    "static/js/2.67f8e475.chunk.js.map": "/marvel-web-service/static/js/2.67f8e475.chunk.js.map",
+    "static/js/2.3d95bb59.chunk.js": "/marvel-web-service/static/js/2.3d95bb59.chunk.js",
+    "static/js/2.3d95bb59.chunk.js.map": "/marvel-web-service/static/js/2.3d95bb59.chunk.js.map",
     "index.html": "/marvel-web-service/index.html",
-    "static/css/main.e4e6ec41.chunk.css.map": "/marvel-web-service/static/css/main.e4e6ec41.chunk.css.map",
-    "static/js/2.67f8e475.chunk.js.LICENSE.txt": "/marvel-web-service/static/js/2.67f8e475.chunk.js.LICENSE.txt",
+    "static/css/main.336f1033.chunk.css.map": "/marvel-web-service/static/css/main.336f1033.chunk.css.map",
+    "static/js/2.3d95bb59.chunk.js.LICENSE.txt": "/marvel-web-service/static/js/2.3d95bb59.chunk.js.LICENSE.txt",
+    "static/media/Avengers.4065c8f9.png": "/marvel-web-service/static/media/Avengers.4065c8f9.png",
+    "static/media/Avengers_logo.9eaf2193.png": "/marvel-web-service/static/media/Avengers_logo.9eaf2193.png",
     "static/media/error.42292aa1.gif": "/marvel-web-service/static/media/error.42292aa1.gif",
     "static/media/mjolnir.61f31e18.png": "/marvel-web-service/static/media/mjolnir.61f31e18.png",
     "static/media/vision.067d4ae1.png": "/marvel-web-service/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.95311f0b.js",
-    "static/js/2.67f8e475.chunk.js",
-    "static/css/main.e4e6ec41.chunk.css",
-    "static/js/main.4ecb6dc4.chunk.js"
+    "static/js/2.3d95bb59.chunk.js",
+    "static/css/main.336f1033.chunk.css",
+    "static/js/main.899baea0.chunk.js"
   ]
 }
